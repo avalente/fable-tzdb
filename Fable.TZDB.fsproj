@@ -7,7 +7,7 @@
   <PropertyGroup>
     <PackageId>Fable.TZDB</PackageId>
     <Title>Fable.TZDB</Title>
-    <Version>1.0.0</Version>
+    <Version>1.0.1</Version>
     <Authors>Angelantonio Valente</Authors>
     <Description>Fable wrapper for time zone databases</Description>
     <PackageProjectUrl>https://github.com/avalente/fable-tzdb</PackageProjectUrl>
